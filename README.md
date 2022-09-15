@@ -8,7 +8,7 @@ This Project aims to create a Cartoonified Image of the user input image, with t
 * [Technologies Used](https://github.com/Shweta2024/cars-engage-2022/blob/main/requirements.txt)
 * [Features](#features)
 * [Room for Improvement](#room-for-improvement)
-* [Installing Guidelines](https://github.com/Shweta2024/cars-engage-2022/blob/main/Contributing.md)
+* [Installation or Contribution Guidelines](https://github.com/Shweta2024/Cartoonify-Image-Using-OpenCV/blob/main/Installation%20or%20Contribution%20Guidelines.md)
 * [Contact](#contact)
 
 
@@ -61,3 +61,10 @@ applications by connecting users with both the means to capture images and the c
 - This can take only one image as input at a time to generate its Cartoonified image.However, there is a scope of imrpovement to allow users to upload multiple pictures at a time to get their cartoonified images.
 
 
+## Contact
+
+😄 Created by - [Shweta Bhagat](https://www.linkedin.com/in/shweta-bhagat-5a3969200/)
+
+📧 Email : bhagatshweta0216@gmail.com
+
+Feel free to contact me!
