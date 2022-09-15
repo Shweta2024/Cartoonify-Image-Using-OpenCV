@@ -11,11 +11,12 @@ Thank you for helping out and remember,
 
 ```
 $ git clone https://github.com/<your-username>/cars-engage-2022
-$ cd cars-engage-2022
-$ git remote add upstream https://github.com/Shweta2024/cars-engage-2022
+$ cd Cartoonify-Image-Using-OpenCV
+$ git remote add upstream https://github.com/Shweta2024/Cartoonify-Image-Using-OpenCV
 ```
 
-![fork](https://user-images.githubusercontent.com/75883328/170811931-d41b2456-3668-4758-aa5b-4e2839dcc976.png)
+![fork](![Untitled](https://user-images.githubusercontent.com/75883328/190443530-139f68fd-f461-4a3a-b59c-d32f89a74c99.png)
+)
 
 
 ## Step-2 :  Create a virtual environment
