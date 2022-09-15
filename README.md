@@ -13,6 +13,12 @@ This Project aims to create a Cartoonified Image of the user input image, with t
 
 
 ## Objective
+
+
+![d](https://user-images.githubusercontent.com/75883328/190446126-dbb094fd-1a06-496e-bb2b-f11323c4aed9.png)
+
+
+
 The goal of this project is to come up with an application that can take images by user input and can fed it to the program to generate a Cartoonified Image with the help of OpenCV in Python.It also allows the user to save the image to their system.
 
 
@@ -56,7 +62,10 @@ applications by connecting users with both the means to capture images and the c
 - Save Image : After an image gets cartoonified , the users can also save it to their system.
 
 
-## Room for Improvemen
+![up](https://user-images.githubusercontent.com/75883328/190445269-5174ba92-170a-4bf3-bee5-2c09b3fcba0e.png)
+
+
+## Room for Improvement
 
 - This can take only one image as input at a time to generate its Cartoonified image.However, there is a scope of imrpovement to allow users to upload multiple pictures at a time to get their cartoonified images.
 
