@@ -15,8 +15,7 @@ $ cd Cartoonify-Image-Using-OpenCV
 $ git remote add upstream https://github.com/Shweta2024/Cartoonify-Image-Using-OpenCV
 ```
 
-![fork](![Untitled](https://user-images.githubusercontent.com/75883328/190443530-139f68fd-f461-4a3a-b59c-d32f89a74c99.png)
-)
+![Untitled](https://user-images.githubusercontent.com/75883328/190444076-19f322cf-c1d1-4f57-89d5-73d5cdd633af.png)
 
 
 ## Step-2 :  Create a virtual environment
